@@ -4,7 +4,7 @@ Solving five problems on a DSA topic by yourself and getting stuck on the other 
 
 ### 💡 Why Your Current Approach Isn't Working
 
-When you're stuck on a problem, it's often not because you haven't seen enough problems, but because you're missing a key insight or a specific technique. Simply grinding more problems without addressing this gap can lead to a cycle of frustration. This is like trying to lift a heavy object without knowing the right technique—you'll just keep failing and getting tired.
+**✅✅✅When you're stuck on a problem, it's often not because you haven't seen enough problems, but because you're missing a key insight or a specific technique. Simply grinding more problems without addressing this gap can lead to a cycle of frustration. This is like trying to lift a heavy object without knowing the right technique—you'll just keep failing and getting tired.**
 
 ### 🧠 A Better Approach to Break the Cycle
 
